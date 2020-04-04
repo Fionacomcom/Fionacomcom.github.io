@@ -34,11 +34,11 @@
   </entry>
   
   <entry>
-    <title>相册</title>
-    <link href="http://yoursite.com/2019/08/06/photo/"/>
-    <id>http://yoursite.com/2019/08/06/photo/</id>
+    <title>视频</title>
+    <link href="http://yoursite.com/2019/08/06/vedio/"/>
+    <id>http://yoursite.com/2019/08/06/vedio/</id>
     <published>2019-08-06T11:00:02.000Z</published>
-    <updated>2020-04-04T15:01:32.018Z</updated>
+    <updated>2020-04-04T15:01:57.272Z</updated>
     
     <summary type="html">
     
@@ -48,7 +48,7 @@
     
     
     
-      <category term="相册" scheme="http://yoursite.com/tags/%E7%9B%B8%E5%86%8C/"/>
+      <category term="视频" scheme="http://yoursite.com/tags/%E8%A7%86%E9%A2%91/"/>
     
   </entry>
   
@@ -72,11 +72,11 @@
   </entry>
   
   <entry>
-    <title>视频</title>
-    <link href="http://yoursite.com/2019/08/06/vedio/"/>
-    <id>http://yoursite.com/2019/08/06/vedio/</id>
+    <title>相册</title>
+    <link href="http://yoursite.com/2019/08/06/photo/"/>
+    <id>http://yoursite.com/2019/08/06/photo/</id>
     <published>2019-08-06T11:00:02.000Z</published>
-    <updated>2020-04-04T15:01:57.272Z</updated>
+    <updated>2020-04-04T15:01:32.018Z</updated>
     
     <summary type="html">
     
@@ -86,7 +86,7 @@
     
     
     
-      <category term="视频" scheme="http://yoursite.com/tags/%E8%A7%86%E9%A2%91/"/>
+      <category term="相册" scheme="http://yoursite.com/tags/%E7%9B%B8%E5%86%8C/"/>
     
   </entry>
   
