@@ -3,7 +3,7 @@
   <title>Home</title>
   
   
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://yulindev.gitee.io/"/>
   <updated>2020-04-04T15:01:08.455Z</updated>
@@ -53,25 +53,6 @@
   </entry>
   
   <entry>
-    <title>故事</title>
-    <link href="http://yulindev.gitee.io/2019/08/06/story/"/>
-    <id>http://yulindev.gitee.io/2019/08/06/story/</id>
-    <published>2019-08-06T11:00:02.000Z</published>
-    <updated>2020-04-04T15:01:47.261Z</updated>
-    
-    <summary type="html">
-    
-      显示在目录页或首页的内容简介。
-    
-    </summary>
-    
-    
-    
-      <category term="故事" scheme="http://yulindev.gitee.io/tags/%E6%95%85%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>视频</title>
     <link href="http://yulindev.gitee.io/2019/08/06/vedio/"/>
     <id>http://yulindev.gitee.io/2019/08/06/vedio/</id>
@@ -87,6 +68,25 @@
     
     
       <category term="视频" scheme="http://yulindev.gitee.io/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>故事</title>
+    <link href="http://yulindev.gitee.io/2019/08/06/story/"/>
+    <id>http://yulindev.gitee.io/2019/08/06/story/</id>
+    <published>2019-08-06T11:00:02.000Z</published>
+    <updated>2020-04-04T15:01:47.261Z</updated>
+    
+    <summary type="html">
+    
+      显示在目录页或首页的内容简介。
+    
+    </summary>
+    
+    
+    
+      <category term="故事" scheme="http://yulindev.gitee.io/tags/%E6%95%85%E4%BA%8B/"/>
     
   </entry>
   
