@@ -3,11 +3,11 @@
   <title>Home</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/home/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://yulindev.gitee.io/"/>
   <updated>2020-04-04T15:01:08.455Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://yulindev.gitee.io/</id>
   
   <author>
     <name>Yulin Huang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>网站介绍</title>
-    <link href="http://yoursite.com/2020/04/04/about/"/>
-    <id>http://yoursite.com/2020/04/04/about/</id>
+    <link href="http://yulindev.gitee.io/2020/04/04/about/"/>
+    <id>http://yulindev.gitee.io/2020/04/04/about/</id>
     <published>2020-04-03T16:20:17.188Z</published>
     <updated>2020-04-04T15:01:08.455Z</updated>
     
@@ -29,52 +29,14 @@
     
     
     
-      <category term="网站介绍" scheme="http://yoursite.com/tags/%E7%BD%91%E7%AB%99%E4%BB%8B%E7%BB%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>视频</title>
-    <link href="http://yoursite.com/2019/08/06/vedio/"/>
-    <id>http://yoursite.com/2019/08/06/vedio/</id>
-    <published>2019-08-06T11:00:02.000Z</published>
-    <updated>2020-04-04T15:01:57.272Z</updated>
-    
-    <summary type="html">
-    
-      显示在目录页或首页的内容简介。
-    
-    </summary>
-    
-    
-    
-      <category term="视频" scheme="http://yoursite.com/tags/%E8%A7%86%E9%A2%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>故事</title>
-    <link href="http://yoursite.com/2019/08/06/story/"/>
-    <id>http://yoursite.com/2019/08/06/story/</id>
-    <published>2019-08-06T11:00:02.000Z</published>
-    <updated>2020-04-04T15:01:47.261Z</updated>
-    
-    <summary type="html">
-    
-      显示在目录页或首页的内容简介。
-    
-    </summary>
-    
-    
-    
-      <category term="故事" scheme="http://yoursite.com/tags/%E6%95%85%E4%BA%8B/"/>
+      <category term="网站介绍" scheme="http://yulindev.gitee.io/tags/%E7%BD%91%E7%AB%99%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
   <entry>
     <title>相册</title>
-    <link href="http://yoursite.com/2019/08/06/photo/"/>
-    <id>http://yoursite.com/2019/08/06/photo/</id>
+    <link href="http://yulindev.gitee.io/2019/08/06/photo/"/>
+    <id>http://yulindev.gitee.io/2019/08/06/photo/</id>
     <published>2019-08-06T11:00:02.000Z</published>
     <updated>2020-04-04T15:01:32.018Z</updated>
     
@@ -86,7 +48,45 @@
     
     
     
-      <category term="相册" scheme="http://yoursite.com/tags/%E7%9B%B8%E5%86%8C/"/>
+      <category term="相册" scheme="http://yulindev.gitee.io/tags/%E7%9B%B8%E5%86%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>故事</title>
+    <link href="http://yulindev.gitee.io/2019/08/06/story/"/>
+    <id>http://yulindev.gitee.io/2019/08/06/story/</id>
+    <published>2019-08-06T11:00:02.000Z</published>
+    <updated>2020-04-04T15:01:47.261Z</updated>
+    
+    <summary type="html">
+    
+      显示在目录页或首页的内容简介。
+    
+    </summary>
+    
+    
+    
+      <category term="故事" scheme="http://yulindev.gitee.io/tags/%E6%95%85%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>视频</title>
+    <link href="http://yulindev.gitee.io/2019/08/06/vedio/"/>
+    <id>http://yulindev.gitee.io/2019/08/06/vedio/</id>
+    <published>2019-08-06T11:00:02.000Z</published>
+    <updated>2020-04-04T15:01:57.272Z</updated>
+    
+    <summary type="html">
+    
+      显示在目录页或首页的内容简介。
+    
+    </summary>
+    
+    
+    
+      <category term="视频" scheme="http://yulindev.gitee.io/tags/%E8%A7%86%E9%A2%91/"/>
     
   </entry>
   
