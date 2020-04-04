@@ -3,7 +3,7 @@
   <title>Home</title>
   
   
-  <link href="/home/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://yulindev.gitee.io/"/>
   <updated>2020-04-04T15:01:08.455Z</updated>
